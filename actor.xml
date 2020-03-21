@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mediaList>
+
+    <media>
+        <type>Movie</type>
+        <genre>Crime, Drama, Thriller</genre>
+        <name>Joker</name>
+        <rating>R</rating>
+        <userRating>8.5</userRating>
+        <releaseYear>2019</releaseYear>
+        <people>
+            <director>Todd Phillips</director>
+            <screenWriter>Todd Phillips, Scott Silver</screenWriter>
+            <mainActors> Joaquin Phoenix, Robert De Niro, Zazie Beetz</mainActors>
+        </people>
+    </media>
+    
+    <media>
+        <type>Movie</type>
+        <genre>Comedy, Drama, War</genre>
+        <name>Jojo Rabbit</name>
+        <rating>PG-13</rating>
+        <userRating>8.0</userRating>
+        <releaseYear>2019</releaseYear>
+        <people>
+            <director>Taika Waititi</director>
+            <screenWriter>Taika Waititi</screenWriter>
+            <mainActor> Roman Griffin Davis, Thomasin McKenzie, Scarlett Johansson</mainActor>
+        </people>       
+    </media>
+
+    <media>
+        <type>Movie</type>
+        <genre>Action, Biography, Drama</genre>
+        <name>Ford v Ferrari</name>
+        <rating>PG-13</rating>
+        <userRating>8.1</userRating>
+        <releaseYear>2019</releaseYear>
+        <people>
+            <director>James Mangold</director>
+            <screenWriter>Jez Butterworth, John-Henry Butterworth</screenWriter>
+            <mainActor>Matt Damon, Christian Bale, Jon Bernthal</mainActor>
+        </people>
+    </media>
+
+     <media>
+        <type>Movie</type>
+        <genre>Comedy, Crime, Drama</genre>
+        <name>Knives Out</name>
+        <rating>PG-13</rating>
+        <userRating>8.0</userRating>
+        <releaseYear>2019</releaseYear>
+        <people>
+            <director>Rian Johnson</director>
+            <screenWriter>Rian Johnson</screenWriter>
+            <mainActor>Daniel Craig, Chris Evans, Ana de Armas</mainActor>
+        </people>
+    </media>
+
+     <media>
+        <type>Movie</type>
+        <genre>Drama, War</genre>
+        <name>1917</name>
+        <rating>R</rating>
+        <userRating>8.4</userRating>
+        <releaseYear>2019</releaseYear>
+        <people>
+            <director>Sam Mendes</director>
+            <screenWriter>Sam Mendes, Krysty Wilson-Cairns</screenWriter>
+            <mainActor>Dean-Charles Chapman, George MacKay, Daniel Mays</mainActor>
+        </people>
+    </media>
+
+    <media>
+        <type>Movie</type>
+        <genre>Comedy, Drama, Thriller</genre>
+        <name>Parasite</name>
+        <rating>R</rating>
+        <userRating>8.6</userRating>
+        <releaseYear>2019</releaseYear>
+        <people>
+            <director>Bong Joon Ho</director>
+            <screenWriter>Bong Joon Ho</screenWriter>
+            <mainActor>Kang-ho Song, Sun-kyun Lee, Yeo-jeong Jo</mainActor>
+        </people>
+    </media>
+
+</movieList>
